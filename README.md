@@ -1,5 +1,5 @@
 # RickImagesGenerator
-Genetration of Rick styled characters based in GAM algorithm
+Genetration of Rick styled characters based in GAN algorithm
 
 
 download.ipynb is where we download the raw dataset from kaggle
