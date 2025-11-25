@@ -50,10 +50,8 @@ cd RickImagesGenerator
 
 Install the dependencies:
 
-```bash
-pip install requirements.txt
-```
+Execute the first lines of the **main.ipynb** for installing all the necesary dependencies.
 
 ## ▶️ Usage
-Execute all the cells of 'main.ipynb' step by step
+Execute the rest of the lines of **main.ipynb** to run the generation.
 
