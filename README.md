@@ -55,5 +55,5 @@ pip install requirements.txt
 ```
 
 ## ▶️ Usage
-Execute all the cells step by step
+Execute all the cells of 'main.ipynb' step by step
 
