@@ -1,9 +1,59 @@
 # RickImagesGenerator
-Genetration of Rick styled characters based in GAN algorithm
+### Transforming Ideas into Visual Masterpieces
 
+## 🚧 Built with the tools and technologies
+GAN, Deep Learning, IPYNB...
 
-download.ipynb is where we download the raw dataset from kaggle
+## 📚 Table of Contents
+- [Overview](#overview)
+- [Getting-Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
 
-repaint.py is where we repaint the images and remove the watermarks
+## 📌 Overview
+**RickImagesGenerator** is a powerful developer tool that simplifies the creation of Rick-inspired character images and standardizes image datasets for AI workflows. It combines image processing, dataset management, and model inference into a cohesive pipeline, enabling high-quality, stylized visuals with ease.
 
-main.ipynb is where we executed the last and best GAN model (256x256 images)
+### Why RickImagesGenerator?
+This project accelerates AI-driven image synthesis by providing essential components for dataset handling, image standardization, and stylized image generation.
+
+Core features include:
+
+- 🖼️ **Image Overlay:** Batch process images to add overlays, ensuring visual consistency or masking unwanted areas.
+- 🎨 **GAN-Based Generation:** Generate high-quality **256×256** Rick-style images using a trained generative model.
+- 📥 **Dataset Automation:** Download and manage datasets seamlessly with integrated Kaggle support.
+- ⚙️ **Workflow Integration:** Supports end-to-end pipelines from raw data to stylized outputs.
+- 🚀 **Efficiency & Consistency:** Automates repetitive tasks, saving development time and ensuring uniform results.
+
+## 🏁 Getting Started
+
+### 🔧 Prerequisites
+This project requires the following dependency:
+
+- **Programming Language:** Jupyter Notebook
+
+## 🛠️ Installation
+Build **RickImagesGenerator** from source and install its dependencies:
+
+Clone the repository:
+
+```bash
+git clone https://github.com/asier-larrazabal/RickImagesGenerator
+```
+
+Navigate to the project directory:
+
+```bash
+cd RickImagesGenerator
+```
+
+Install the dependencies:
+
+```bash
+pip install requirements.txt
+```
+
+## ▶️ Usage
+Execute all the cells step by step
+
